@@ -6,7 +6,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: python:3.7.3-stretch
+      - image: shreeni123/microservicesshreeni123
     working_directory: ~/repo
     steps:
       - checkout
