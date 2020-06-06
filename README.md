@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/shreeni123/project4-microservices.svg?style=svg)](https://github.com/shreeni123/project4-microservices/tree/circleci-project-setup)
 
 ## Project Overview
 
