@@ -6,7 +6,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: shreeni123/microservicesshreeni123
+      - image: python:3.7.3-stretch
     working_directory: ~/repo
     steps:
       - checkout
@@ -33,4 +33,4 @@ jobs:
           name: run lint
           command: |
             . venv/bin/activate
-            make lint 
+            hadolint Dockerfile 
