@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/shreeni123/project4-microservices.svg?style=svg)](https://github.com/shreeni123/project4-microservices/tree/circleci-project-setup)
+[![CircleCI](https://circleci.com/gh/shreeni123/project4-microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/shreeni123/project4-microservices)
 
 ## Project Overview
 
